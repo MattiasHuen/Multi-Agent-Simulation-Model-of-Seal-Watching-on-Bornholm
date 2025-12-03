@@ -1,4 +1,4 @@
-# 🦭 Marine Tourism Impact Simulation  
+# 🦭 Marine Tourism Impact Simulation
 A comprehensive Python model for analyzing **tourism activity**, **economic effects**, **boat emissions**, and **ecological impact on seal populations** across multiple years of marine sightseeing operations.
 
 ---
@@ -43,7 +43,9 @@ The goal is to provide data-driven insights into sustainability and long-term tr
   - Seal disturbance  
   - Cancellations  
   - Emissions  
-  - Encounter probability  
+  - Encounter probability
+---
+ReadME was generated using a LLM
 
 
 
